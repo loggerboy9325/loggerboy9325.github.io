@@ -28,3 +28,4 @@ This is my latest project I've done. The project objective is to create a endpoi
 
 - Github : [Github](https://github.com/loggerboy9325/cloud-resume-api)
 - API-Link : [API-Link](https://ry5dzf3ztf.execute-api.us-east-1.amazonaws.com/prod/cloud-resume)
+- Challenge-Website : [Challenge-Website](https://cloudresumeapi.dev/aws/)
